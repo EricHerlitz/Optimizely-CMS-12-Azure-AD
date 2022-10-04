@@ -1,0 +1,12 @@
+﻿global using EPiServer.Cms.Shell;
+global using EPiServer.Cms.UI.AspNetIdentity;
+global using EPiServer.Scheduler;
+global using EPiServer.Security;
+global using EPiServer.ServiceLocation;
+global using EPiServer.Web.Routing;
+global using Microsoft.AspNetCore.Authentication.Cookies;
+global using Microsoft.AspNetCore.Authentication.OpenIdConnect;
+global using Microsoft.IdentityModel.Protocols.OpenIdConnect;
+global using Microsoft.IdentityModel.Tokens;
+global using System.Security.Claims;
+global using System.Text;
