@@ -1,4 +1,5 @@
 App_Data/
+!*CMS12AzureAd.mdf
 node_modules/
 artifacts/
 
